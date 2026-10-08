@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, Ben Mazlum 👋
 
-<!--
-**mazlumkor/MazlumKOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Backend geliştirme ve kurumsal sistemler üzerine odaklanıyorum.
 
-Here are some ideas to get you started:
+### 🎯 Odak Alanlarım
+- **Java & OOP:** Nesne yönelimli mimari ve temiz kod prensipleri
+- **Veritabanı:** SQL temelleri ve ilişkisel modelleme (PostgreSQL)
+- **Hedef:** Spring Boot ile uçtan uca REST API projeleri geliştirmek
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknolojiler
+- **Diller:** Java, C/C++, SQL,Python
+- **Araçlar:** IntelliJ IDEA, Git, GitHub
+
+### 📫 İletişim
+- [LinkedIn](https://www.linkedin.com/in/mazlum-kor-07173124a/?isSelfProfile=true)
+- [Email](mazlumkor1@gmail.com)
